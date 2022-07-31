@@ -11,3 +11,17 @@
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+C:\workspace\dio-crud-c-\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\workspace\dio-crud-c-\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-crud-c-\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\workspace\dio-crud-c-\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\workspace\dio-crud-c-\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\workspace\dio-crud-c-\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\workspace\dio-crud-c-\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\workspace\dio-crud-c-\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\workspace\dio-crud-c-\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\workspace\dio-crud-c-\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\workspace\dio-crud-c-\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\workspace\dio-crud-c-\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\workspace\dio-crud-c-\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\workspace\dio-crud-c-\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
